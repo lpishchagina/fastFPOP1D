@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+#importFrom("stats", "rnorm", "tidyverse","ggplot2", "cowplot")
